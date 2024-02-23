@@ -72,8 +72,8 @@ The Music Library is equipped with a suite of unit tests designed to ensure the 
 To run the unit tests for the Harmony Hub application, follow these steps:
 
 1. Open the terminal in visual studio code
-2. Type in "npm run test"
-3. After few seconds different test will appear in the terminal
+3. Type in ```npm run test```
+4. After few seconds different test will appear in the terminal
 
 ![image](https://github.com/Stili559/Software-Project-Documentation/assets/80035053/352fd3cd-c9fc-428a-b78b-dae7576224b5)
 
